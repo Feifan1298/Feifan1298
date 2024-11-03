@@ -9,4 +9,4 @@
 
 ### 信箱
 :ant: yihung0214@gmail.com \
-:ant : 157364@mail.fju.edu.tw \
+:ant: 157364@mail.fju.edu.tw
